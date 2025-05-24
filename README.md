@@ -1,7 +1,18 @@
-# vera
-A cool project my friends and I have been working on for a while.
+#Overview
+Vera isn't just a project—it's a precaution. It's an interface, a relay, a fallback. Built to withstand pressure, obfuscate interaction, and provide fail-safes if things ever go sideways. Like now.
 
-## Organiser notes
+If you're reading this, either something's gone wrong... or you're Olive.
+Hi, Olive.
+
+
+
+
+
+
+
+
+
+### Organiser notes
 Don't forget to use `$hint` in **Quigga** — *Abdalla*
 
 This project wouldn't exist without you guys. Keep it `$quack` — *Mosab*
